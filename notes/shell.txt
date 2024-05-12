@@ -16,7 +16,7 @@ $ clear - clears the terminal
 && - adds commands together
 Arrow Up and Arrow Down - shows the command history
 
-
+Ctrl-C - stops almoust each running process
 
 -------------------------------------
 HOW DO WE USE A GITHUB LINK TO THE CURRENT LESSON
